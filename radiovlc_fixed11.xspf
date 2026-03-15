@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Radio VLC</title>
+  <trackList>
+    <track>
+      <title>EUROPA PLUS ARMENIA</title>
+      <location>https://de.auroramedia.am/europaplus</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/europaplus_128x128.png</image>
+    </track>
+    <track>
+      <title>KISS FM Armenia</title>
+      <location>https://de.auroramedia.am/kissfm.mp3</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/kissfmarmenia_128x128.png</image>
+    </track>
+    <track>
+      <title>Pop FM</title>
+      <location>http://s6.voscast.com:11646/popfm</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/pop.png</image>
+    </track>
+    <track>
+      <title>AUTORADIO YEREVAN FM89.7</title>
+      <location>https://de.auroramedia.am/autoradio</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/autoradio_128x128.png</image>
+    </track>
+    <track>
+      <title>Radio Shanson Yerevan</title>
+      <location>http://164.132.169.60:8070/stream</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/shanson.png</image>
+    </track>
+    <track>
+      <title>Radio Jan</title>
+      <location>http://s7.voscast.com:10258/radiojan</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radiojan.png</image>
+    </track>
+    <track>
+      <title>Vem Radio</title>
+      <location>https://eu1.stream4cast.com/proxy/vemradio/live</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/vem.png</image>
+    </track>
+    <track>
+      <title>Radio Zark</title>
+      <location>http://212.34.233.78:8001/</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/zark.png</image>
+    </track>
+    <track>
+      <title>Radio Mir Armenia</title>
+      <location>https://icecast-mirtv.cdnvideo.ru/radio_mir_256</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radiomir.png</image>
+    </track>
+    <track>
+      <title>Go Sport FM</title>
+      <location>https://gosport.webcaramba.com/gosport128.mp3</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/gosport.png</image>
+    </track>
+    <track>
+      <title>Radio Arevik</title>
+      <location>https://eu1.stream4cast.com/proxy/aamiryan/stream</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/arevik.png</image>
+    </track>
+    <track>
+      <title>Im Radio</title>
+      <location>http://217.182.133.119:8070/stream</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/imradio.png</image>
+    </track>
+    <track>
+      <title>RadioComedy</title>
+      <location>http://s6.voscast.com:11536/1fm</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/comedy.png</image>
+    </track>
+    <track>
+      <title>Radio Aurora Armenia</title>
+      <location>https://de.auroramedia.am/aurora.mp3</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radioaurora_128x128.png</image>
+    </track>
+    <track>
+      <title>RADIO YEREVAN FM Armenia</title>
+      <location>http://217.182.133.119:8160/stream</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/yerevan_128.png</image>
+    </track>
+    <track>
+      <title>Radio France Internationale</title>
+      <location>https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/rfi.png</image>
+    </track>
+    <track>
+      <title>Radio Van FM103.1</title>
+      <location>https://hls-01-radiovan.webcaramba.com/radiovan/112/playlist.m3u8</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radiovan_128.png</image>
+    </track>
+    <track>
+      <title>Radio Marshal</title>
+      <location>http://164.132.169.60:8030/stream</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/marshall.png</image>
+    </track>
+    <track>
+      <title>Radio Hay</title>
+      <location>https://audio.cloudrad.io/2b1dbf78/live</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radiohay_128.png</image>
+    </track>
+    <track>
+      <title>Radio Alpha Yerevan</title>
+      <location>https://hls-01-rusradio.webcaramba.com/rusradio-yerevan/96/playlist.m3u8</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radioalpha_128.png</image>
+    </track>
+    <track>
+      <title>FM 105.5</title>
+      <location>http://3745421d.edge.cloudrad.io:9188/live</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/fm1055.png</image>
+    </track>
+    <track>
+      <title>Radio Sputnik Armenia</title>
+      <location>https://icecast-rian.cdnvideo.ru/voicearm1</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/sputnik.png</image>
+    </track>
+    <track>
+      <title>Lratvakan Radio</title>
+      <location>http://212.34.233.78:8000/live</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/lratvakan.png</image>
+    </track>
+    <track>
+      <title>Hanrayin Radio</title>
+      <location>http://217.182.133.119:8052/stream</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/hanrayin.png</image>
+    </track>
+    <track>
+      <title>Radio Jan USA</title>
+      <location>http://s4.voscast.com:8864/stream</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radiojanusa.png</image>
+    </track>
+    <track>
+      <title>Pop FM USA</title>
+      <location>http://s4.voscast.com:8862/stream</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/pop1075.png</image>
+    </track>
+    <track>
+      <title>Arm Music Radio</title>
+      <location>https://listen7.myradio24.com/armmusic</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/armmusic.png</image>
+    </track>
+    <track>
+      <title>Radio Van Gyumri</title>
+      <location>https://a13.asurahosting.com/listen/radio_van_gyumri/radio.mp3</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/vangyumri.png</image>
+    </track>
+    <track>
+      <title>Radio Mshakuyt</title>
+      <location>https://eu1.stream4cast.com/proxy/aamiry01/stream</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/mshakuyt.png</image>
+    </track>
+    <track>
+      <title>Lav Radio</title>
+      <location>http://164.132.169.60:8000/stream</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/lavradio.png</image>
+    </track>
+    <track>
+      <title>Lav Radio Mix</title>
+      <location>http://164.132.169.60:8006/stream</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/lavradiomix.png</image>
+    </track>
+    <track>
+      <title>XFM Radio</title>
+      <location>http://164.132.169.60:8050/stream</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/xfm.png</image>
+    </track>
+    <track>
+      <title>MFM Music Radio</title>
+      <location>http://164.132.169.60:8012/stream</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/mfm.png</image>
+    </track>
+    <track>
+      <title>Radio Energy</title>
+      <location>http://164.132.169.60:8044/stream</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/energy.png</image>
+    </track>
+    <track>
+      <title>Mig Radio</title>
+      <location>https://shaincast.caster.fm:30456/listen.mp3?authn3e92e5a71206f543b6464ec19fd6b84f</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/mig.png</image>
+    </track>
+    <track>
+      <title>Radio Yeraz</title>
+      <location>http://streaming05.liveboxstream.uk:8008/stream</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/yeraz.png</image>
+    </track>
+    <track>
+      <title>Classic FM</title>
+      <location>https://de.auroramedia.am/classic</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/classic_128.png</image>
+    </track>
+    <track>
+      <title>Radio Jazz FM</title>
+      <location>https://de.auroramedia.am/jazz.mp3</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radiojazz_128.png</image>
+    </track>
+    <track>
+      <title>Radio Monte Carlo - Retro & Gold</title>
+      <location>https://de.auroramedia.am/montecarlo</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/montecarlo_128.png</image>
+    </track>
+    <track>
+      <title>Radio Rocks</title>
+      <location>https://de.auroramedia.am/roks</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/rocks_128.png</image>
+    </track>
+    <track>
+      <title>SERFM 1 | Armenian Folk Radio</title>
+      <location>https://de.auroramedia.am/ser1</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/ser1_128.png</image>
+    </track>
+    <track>
+      <title>SERFM 2 Armenian Pop Hits</title>
+      <location>https://de.auroramedia.am/ser2</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/ser2_128.png</image>
+    </track>
+    <track>
+      <title>SERFM 3 Armenian Dance</title>
+      <location>https://de.auroramedia.am/ser3</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/ser3_128.png</image>
+    </track>
+    <track>
+      <title>Radio YAN</title>
+      <location>https://237.185.153.160.host.secureserver.net/proxy/radioyan1/autodj</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radioyan.png</image>
+    </track>
+    <track>
+      <title>Armenian Revolutionary Radio</title>
+      <location>https://237.185.153.160.host.secureserver.net/proxy/radioyan2/autodj</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/revolutionary.png</image>
+    </track>
+    <track>
+      <title>Greek Zemibekiko Radio</title>
+      <location>https://237.185.153.160.host.secureserver.net/proxy/radioyan3/autodj</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/greek.png</image>
+    </track>
+    <track>
+      <title>Yerevan Nights</title>
+      <location>http://icecast.worldweb.services:81/YerevanNights</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/yerevannights.png</image>
+    </track>
+    <track>
+      <title>Radio Azalia</title>
+      <location>https://stream-175.zeno.fm/s865660v7hhvv</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/azalia.png</image>
+    </track>
+    <track>
+      <title>JourNews</title>
+      <location>https://stream-176.zeno.fm/dvodr8cuwc5uv</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/journews.png</image>
+    </track>
+    <track>
+      <title>Radio Avol</title>
+      <location>http://64.150.176.42:8045/autodj</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/avol.png</image>
+    </track>
+    <track>
+      <title>Radio Surenavan</title>
+      <location>https://stream-175.zeno.fm/uww17gzn8x8uv</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/surenavan.png</image>
+    </track>
+    <track>
+      <title>Nor Radio Los Angeles</title>
+      <location>https://ice8.securenetsystems.net/NORRADIO</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/nor.png</image>
+    </track>
+    <track>
+      <title>Radio AYK</title>
+      <location>http://64.150.176.42:8117/stream</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/ayk.png</image>
+    </track>
+    <track>
+      <title>Radio Arménie</title>
+      <location>http://direct.radioarmenie.com:9029/stream</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/radioarmenie.png</image>
+    </track>
+    <track>
+      <title>Armenian Power Radio</title>
+      <location>https://stream-179.zeno.fm/fw6pqvkxe48uv</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/armenian-power.png</image>
+    </track>
+    <track>
+      <title>Radio Hayrenik</title>
+      <location>https://streaming.radio.co/sb64369622/listen</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/hayreniq.png</image>
+    </track>
+    <track>
+      <title>Radio AYP</title>
+      <location>https://stric6.streamakaci.com/radioayp.mp3</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/ayp.png</image>
+    </track>
+    <track>
+      <title>Voice of Van</title>
+      <location>http://vovan.s3ming.com/vovan.mp3?_=1</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/vanvoice.png</image>
+    </track>
+    <track>
+      <title>Radio Arev</title>
+      <location>https://cast6.asurahosting.com//proxy/radioare/autodj</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/arev.png</image>
+    </track>
+    <track>
+      <title>Triktrak Armenian Radio</title>
+      <location>https://cast3.my-control-panel.com/proxy/triktrak/autodj</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/triktrak.png</image>
+    </track>
+    <track>
+      <title>LA Armenian Radio</title>
+      <location>https://cast.thiff.com/proxy/laarmeni?mp=/autodj</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/laarmenian.png</image>
+    </track>
+    <track>
+      <title>Yeridasartoutian Tsayne</title>
+      <location>http://65.108.98.93:8123/live</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/yeritdzayn.png</image>
+    </track>
+    <track>
+      <title>Meguerdichian Stream</title>
+      <location>http://65.108.98.93:8123/autodj</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/meguerdichian.png</image>
+    </track>
+    <track>
+      <title>BelgaHay Radio</title>
+      <location>https://streamer.radio.co/sa1357f891/listen</location>
+      <image>https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/belgahay.png</image>
+    </track>
+  </trackList>
+</playlist>
